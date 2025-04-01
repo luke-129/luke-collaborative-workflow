@@ -3,4 +3,4 @@
 
 ### Summary
 
-There are bugs within the add and subtract function, fix/improve and create a pull request :)
+There are bugs within this program, send help!!!
