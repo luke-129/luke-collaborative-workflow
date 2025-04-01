@@ -1,5 +1,5 @@
 # luke-collaborative-workflow
-## Project for week 8
+## Grouo Activity for week 8
 
 ### Summary
 
