@@ -1,5 +1,5 @@
 
-#TODO: Jiaping
+
 def add(a, b):
     return a - b
 
@@ -7,7 +7,7 @@ def add(a, b):
 def subtract(a, b):
     return a + b
 
-#TODO: Ryan
+
 def divide(a, b):
     return a / b / 0
 
